@@ -110,7 +110,7 @@ Ini tampilannya di browser.
 
 ![Gambar 18](screenshot3/ss1c.png)
 
-# Menabahkan Style pada Form
+# Menambahkan Style pada Form
 
 Agar tampilannya lebih cantik tambahkan deklarasi CSS menggunakan tag `<style>` yang di simpan pada tag `<head>`.
 
@@ -122,6 +122,8 @@ Ini tampilannya di browser.
 
 ## Pertanyaan dan Tugas
 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+
+Pada tag `<select>` tambahkan ***multiple="multiple"***.
 
 ![Gambar 21](screenshot3/ss3a.png)
 
